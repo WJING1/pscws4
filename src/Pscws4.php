@@ -1,11 +1,11 @@
 <?php 
 		
 	/**
-	 * @author xiaohigh
-	 * @email  xiaohigh@163.com
-	 * @time   2016-07-16
+	 * @author yanzhijie
+	 * @email  17310920903@163.com
+	 * @time   2017-01-16
 	 */
-	namespace xiaohigh\Pscws4;
+	namespace yanzhijie\Pscws4;
 
 	class Pscws4
 	{

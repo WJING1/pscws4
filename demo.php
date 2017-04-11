@@ -4,7 +4,7 @@
 	include "./vendor/autoload.php";
 
 	//实例化对象
-	$obj = new \xiaohigh\Pscws4\Pscws4;
+	$obj = new \yanzhijie\Pscws4\Pscws4;
 
 	//调用实现分词功能
 	$res = $obj -> run('SCWS 是 Simple Chinese Word Segmentation 的首字母缩写（即：简易中文分词系统）。
